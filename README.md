@@ -30,7 +30,7 @@ Los usuarios deben ser capaces de:
 <a name="links"></a>
 ### Enlaces
 
-- URL de la solucion: [Add solution URL here](https://your-solution-url.com)
+- URL de la solucion:[https://your-solution-url.com](https://ivanjvic.github.io/order-summary-card-solution/))
 
 <a name="proceso"></a>
 ## Mi proceso
